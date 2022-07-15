@@ -11,7 +11,7 @@ The aim of this exercise is to assess your ability to write well defined HTML, C
 
 2. As a user I'd lke to be able to see the companies in a table and be able to filter on the fees and sector.
 
-Both these should be usable in a modern browser such as Chrome, Firefox, Edge - older browser such as Internet Explorer support are NOT required to be supported.
+Both these should be usable in a modern browser such as Chrome, Firefox, Edge - older browsers such as Internet Explorer are *NOT* required to be supported.
 
 ## Data
 
