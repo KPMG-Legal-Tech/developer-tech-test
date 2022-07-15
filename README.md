@@ -54,7 +54,9 @@ Since the purpose of this exercise is to assess your HTML, CSS and JavaScript ab
 
 ## The Deliverable
 
-* A bundled/archived repository showing your commit history or a link to an accessible repository with your work in (Github offers free private repository hosting).
+* A bundled/archived repository showing your commit history or a link to an accessible repository with your work in (Github/Gitlab offer free repository hosting).
 
 * A Readme.md file explaining the your pre-build plan and the decisions you made when solving this task, such as framework, UI/UX etc.
 * A Build.md file giving any instructions required to run your solution
+
+The bundled file or link to the repository should be sent back to your KPMG recruitment contact.
