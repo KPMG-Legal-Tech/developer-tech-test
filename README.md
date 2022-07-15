@@ -11,6 +11,8 @@ The aim of this exercise is to assess your ability to write well defined HTML, C
 
 2. As a user I'd lke to be able to see the companies in a table and be able to filter on the fees and sector.
 
+Both these should be usable in a modern browser such as Chrome, Firefox, Edge - older browser such as Internet Explorer support are NOT required to be supported.
+
 ## Data
 
 We've provided an endpoint that can be accessed using the following URL: [https://run.mocky.io/v3/7cb595ed-2882-4dc7-8179-d38d0b9c9d13](https://run.mocky.io/v3/7cb595ed-2882-4dc7-8179-d38d0b9c9d13)
