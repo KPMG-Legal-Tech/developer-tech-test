@@ -1,4 +1,4 @@
-# KPMG Legal Tech Developer Technical Assesement
+# KPMG Legal Tech Developer Technical Assessment
 
 ## Introduction
 
@@ -50,7 +50,7 @@ interface Location {
 
 ## Technology
 
-Since the purpose of this exercise is to assess your HTML, CSS and JavaScript abilities, you're welcome to frameworks like Bootstrap, React, Vue etc.
+Since the purpose of this exercise is to assess your HTML, CSS and JavaScript abilities, you're welcome to frameworks like Bootstrap, React, Vue etc. You are also free to create tests to validate your code.
 
 ## The Deliverable
 
